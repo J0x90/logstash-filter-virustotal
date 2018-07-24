@@ -2,9 +2,9 @@ Gem::Specification.new do |s|
   s.name          = 'logstash-filter-virustotal'
   s.version       = '0.1.0'
   s.licenses      = ['Apache-2.0']
-  s.summary       = 'TODO: Write a short summary, because Rubygems requires one.'
-  s.description   = 'TODO: Write a longer description or delete this line.'
-  s.homepage      = 'TODO: Put your plugin''s website or public repo URL here.'
+  s.summary       = 'Gem uses the virustotal API to run analytics on hashes and domain names.'
+  s.description   = 'Gem uses the virustotal API to run detections on hashes and domain names.'
+  s.homepage      = 'https://github.com/lokijosh/logstash-filter-virustotal.git'
   s.authors       = ['']
   s.email         = ''
   s.require_paths = ['lib']
